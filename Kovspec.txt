@@ -3,3 +3,5 @@ Csúcsprojektünk követelményspecifikációja
 
 Dokumentum készítõi
 -------------------
+
+Molnár Krisztián
