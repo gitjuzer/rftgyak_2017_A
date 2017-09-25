@@ -3,11 +3,9 @@ Csúcsprojektünk követelményspecifikációja
 
 Dokumentum készítõi
 -------------------
-
 elsõ sor
 --------
-
+Molnár Krisztián
 
 második sor
 -----------
-
