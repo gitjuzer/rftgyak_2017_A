@@ -4,7 +4,14 @@ URL: https://github.com/capplex/dasprojekt
 Google Drive API fejlesztés + PHP form
 Kadlott Benjámin, Pintér Attila, Szecskó Martin
 ----------------
+<<<<<<< HEAD
 Project Library
 URL:https://github.com/ibozsik94/Library
 Könyvtár katalógusprogram fejlesztése
 Rostás Róbert, Bali Péter, Bozsik István
+=======
+Project Árukészlet nyilvántartó
+URL: https://github.com/lopikseven/RFT-raktarnyilvantarto
+C# Winform
+Kiss Dániel, Danisovszky Márk
+>>>>>>> 546d3f91ca85be51dd84bd054da001aa6cfecab2
