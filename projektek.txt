@@ -1,6 +1,10 @@
-----------------
+﻿----------------
 Project Capplex
 URL: https://github.com/capplex/dasprojekt
 Google Drive API fejlesztés + PHP form
 Kadlott Benjámin, Pintér Attila, Szecskó Martin
 ----------------
+Project Árukészlet nyilvántartó
+URL: https://github.com/lopikseven/RFT-raktarnyilvantarto
+C# Winform
+Kiss Dániel, Danisovszky Márk
