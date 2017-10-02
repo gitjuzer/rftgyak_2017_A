@@ -15,3 +15,8 @@ URL: https://github.com/lopikseven/RFT-raktarnyilvantarto
 C# Winform
 Kiss Dániel, Danisovszky Márk
 >>>>>>> 546d3f91ca85be51dd84bd054da001aa6cfecab2
+------------------------------------------------
+Project Weboldal
+URL:https://github.com/kardossziliva/projekt
+Kardos Szilvia
+------------------------------------------------
