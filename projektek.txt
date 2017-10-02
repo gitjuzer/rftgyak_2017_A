@@ -16,3 +16,8 @@ Kiss Dániel, Danisovszky Márk
 Project Weboldal
 URL:https://github.com/kardossziliva/projekt
 Kardos Szilvia
+
+Project:pénztárgép
+URL:https://github.com/Marci1395/Penztargep.git
+c# winform
+Mészáros Marcell, Markesz Tivadar, Lehotai István
