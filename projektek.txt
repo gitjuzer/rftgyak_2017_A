@@ -16,3 +16,11 @@ Kiss Dániel, Danisovszky Márk
 Project Weboldal
 URL:https://github.com/kardossziliva/projekt
 Kardos Szilvia
+
+
+Név: Pumpkin Spice Register
+URL:
+Rövid leírás: https://github.com/kbernadett/PumpkinSpiceRegister    
+	Leírás: Nyilvántartórendszer itallapról, amely kávé italokat listáz ki nevük alapján. 
+	Funkcionális követelménye: termékeket kilistázza, kiválasztva megjeleníti a termék tulajdonságait.
+Résztvevők: Farkas Kinga, Nagy Júlia, Kocsis Bernadett
