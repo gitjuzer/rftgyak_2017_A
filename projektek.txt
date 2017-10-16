@@ -17,7 +17,17 @@ Project Weboldal
 URL:https://github.com/kardossziliva/projekt
 Kardos Szilvia
 
+
 Project:pénztárgép
 URL:https://github.com/Marci1395/Penztargep.git
 c# winform
 Mészáros Marcell, Markesz Tivadar, Lehotai István
+
+
+Név: Pumpkin Spice Register
+URL:
+Rövid leírás: https://github.com/kbernadett/PumpkinSpiceRegister    
+	Leírás: Nyilvántartórendszer itallapról, amely kávé italokat listáz ki nevük alapján. 
+	Funkcionális követelménye: termékeket kilistázza, kiválasztva megjeleníti a termék tulajdonságait.
+Résztvevők: Farkas Kinga, Nagy Júlia, Kocsis Bernadett
+
